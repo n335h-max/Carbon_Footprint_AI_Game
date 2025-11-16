@@ -1,4 +1,3 @@
-```javascript
 // Netlify Serverless Function
 exports.handler = async (event, context) => {
   // Only allow POST requests
@@ -101,6 +100,3 @@ Rules:
     };
   }
 };
-```
-
----
