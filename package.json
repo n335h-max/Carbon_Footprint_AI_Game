@@ -1,4 +1,3 @@
-```json
 {
   "name": "carbon-footprint-game",
   "version": "1.0.0",
@@ -12,4 +11,4 @@
     "netlify-cli": "^17.0.0"
   }
 }
-```
+
