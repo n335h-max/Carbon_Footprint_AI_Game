@@ -1,4 +1,3 @@
-```toml
 [build]
   command = "npm install"
   functions = "netlify/functions"
@@ -16,4 +15,4 @@
   from = "/*"
   to = "/index.html"
   status = 200
-```
+
