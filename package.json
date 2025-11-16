@@ -1,0 +1,15 @@
+```json
+{
+  "name": "carbon-footprint-game",
+  "version": "1.0.0",
+  "description": "AI-powered carbon footprint guessing game",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "npm install"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
+```
